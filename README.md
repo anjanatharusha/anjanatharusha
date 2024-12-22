@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I'm a 3rd-year Computer Science undergraduate at UCSC
+- 🔭 I’m interested in Software Engineering, DevOps, and Machine Learning
+
 <!--
 **anjanatharusha/anjanatharusha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
